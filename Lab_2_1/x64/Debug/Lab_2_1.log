@@ -1,0 +1,4 @@
+﻿  Lab_2_1.cpp
+C:\Users\catav\Desktop\Лапки\Lab_2_1\Lab_2_1\Matrix.h(30,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\catav\Desktop\Лапки\Lab_2_1\Lab_2_1\CommandInterpreter.h(26): warning C4091: 'static ': ignored on left of 'CommandInterpreter::Commands' when no variable is declared
+  Lab_2_1.vcxproj -> C:\Users\catav\Desktop\Лапки\Lab_2_1\x64\Debug\Lab_2_1.exe
